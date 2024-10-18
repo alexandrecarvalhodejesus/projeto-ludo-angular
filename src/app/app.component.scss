@@ -1,0 +1,90 @@
+.divPai{
+    width: 300px;
+    height: 300px;
+    border: 2px solid;
+    color: black;
+    position: absolute;
+}
+
+
+.TopoEsquerda{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  
+  .TopoDireita{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  
+  }
+  
+  .BaseEsquerda{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+  
+  }
+  
+  .BaseDireita{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+  
+  }
+
+
+.barrahorzontal1{
+  width: 35%;
+  height: 93px;
+  border: 2px solid;
+  color: black;
+  position: absolute;
+  top: 34%;
+  
+
+}
+
+.barrahorzontal2{
+  width: 35%;
+  height: 93px;
+  border: 2px solid;
+  color: black;
+  position: absolute;
+  top: 34%;
+  right: 0%;
+
+}
+
+.barravertical1{
+  width: 82px;
+  height:31%;
+  border: 2px solid;
+  color: black ;
+  position: absolute;
+  left: 107px;
+  top: 34%;
+
+}
+
+.barravertical2{
+  width: 82px;
+  height:33%;
+  border: 2px solid;
+  color: black;
+  position: absolute;
+  left: 107px;
+  top: 66%;
+
+}
+.barravertical3{
+  width: 82px;
+  height:33%;
+  border: 2px solid;
+  color: black;
+  position: absolute;
+  left: 107px;
+  
+
+}
